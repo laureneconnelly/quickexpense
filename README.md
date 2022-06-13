@@ -28,6 +28,7 @@ API Reference Table
 |   /Expenses    |   POST  | Expenses 
 |   /Expenses    |   POST  | Expenses/gl_account_id/belongs_to 
 |   /Expenses    |   POST  | Expenses/deparment_id/belongs_to 
+|   /Expenses    |   POST  | Expenses/employee_id/belongs_to 
 |   /Expenses    |  DELETE | Expenses 
 |  /GL_Accounts  |   GET   | GL_Accounts
 |  /GL_Accounts  |   GET   | GL_Accounts/id
